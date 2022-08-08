@@ -6,7 +6,7 @@ Ini merupakan laman siswa/i X RPL 2 untuk mengupload tugas ataupun latihan.
 * [markdown cheat sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
 
-## NOTE: SETIAP FILE YANG DIUPLOAD HARUS MENGGUNAKAN FORMAT YANG TELAH DITENTUKAN DI KELAS
+## Setiap File yang diupload harus sesuai dengan format yang telah ditentukan di kelas
 Contoh: Nama_NoAbsen_Latihan
 
 ## DILARANG KERAS MENYONTEK CODE TEMAN. JIKA KETAUAN, AKAN MENDAPATKAN POINT DI DALAM KPPS
