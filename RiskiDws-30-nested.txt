@@ -1,0 +1,14 @@
+﻿Nama: Riski Dwi Saputra
+Kelas: X-PPLG 2
+
+
+Psudocode
+Program: Nested-if
+Kamus: i = integer
+Algoritma: if i < 15 then
+                          write("i is smaller than 15/n") 
+                    if i  < 12
+                          write("i is smaller than 12 too")                      
+                   else
+                          write("i is greater than 15") 
+                         
