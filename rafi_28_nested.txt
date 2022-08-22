@@ -1,0 +1,16 @@
+NAMA = Rafi athariando p
+KELAS : X RPL 2
+
+
+
+PSEUDOCODE
+program : nested-if
+
+kamus   :  i = integer
+
+algorithm : if = i < 15 then
+          	    write = ("i is smaller then 15")
+            if = 1 < 12 then
+		    write = ("i is smaller then 12 too")
+       else if 
+ 		    write = ("i is grater then 15")
