@@ -1,0 +1,8 @@
+﻿Dimas Alwiansyah
+Absen 9
+
+Pseudocode
+Program: Nested 
+Kamus: i = integer
+Algoritma: if i= 15 then
+                    write(" is smaller than 15\n")
