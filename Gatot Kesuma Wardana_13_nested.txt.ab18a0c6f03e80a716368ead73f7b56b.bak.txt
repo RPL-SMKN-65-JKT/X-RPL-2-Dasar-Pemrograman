@@ -1,0 +1,5 @@
+﻿[Pseudocode]
+Program     :   nested-if
+Kamus        :  i= integer
+Algoritma   :  if i= is then 
+       	        write ("i is smaller than 15/n")
