@@ -1,0 +1,12 @@
+NAMA=ZAKY YASAR RAIHAN 
+KELAS= 10-RPL-2
+
+Program: nestedif
+kamus: i=integer
+algotritma: if i < 15 then 
+               write("i is smaller than 15")
+            if i < 12 
+               write("i is smalleer than 12 too")
+            else
+               write("i is greater than 15")
+       retrun 0
