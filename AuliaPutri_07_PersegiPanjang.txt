@@ -1,0 +1,31 @@
+Pseudocode
+
+Program persegi panjang
+{menampilkan menu persegi panjang}
+
+Kamus
+Nomor Menu ; integer
+Panjang, lebar : real
+luas, keliling, diagonal : real
+
+algoritma
+write ('Menu Persegi Panjang')
+write ('1. Hitung Luas')
+write ('2. Hitung keliling')
+write ('3. Hitung panjang diagonal')
+write ('4. Keluar program')
+write ('Masukkan pilihan anda (1/2/3/4)?')
+
+Case (NomorMenu)
+1. read (panjang*lebar)
+   luas <--- panjang*lebar
+   write (luas)
+2. read (pannjang*lebar)
+   keliling <--- 2*panjang+2*lebar
+   write (keliling)
+3. read (panjang, lebar)
+   diagonal <--- (panjang*panjang+lebar*lebar)
+   write (diagonal)
+4. write ('Keluar program')
+
+endcase
