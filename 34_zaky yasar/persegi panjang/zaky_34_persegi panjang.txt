@@ -1,0 +1,27 @@
+PSEUDOCODE
+Program persegi panjanh
+menampilkan menu persegi panjang 
+kamus
+
+NomerMenu:integer
+panjang,lebar:real
+luas,keliling,diagonal:real
+
+Algoritma
+write('menu persegi panjang')
+write('1 hitung luas ')
+write('2 hitung keliling ')
+write('3 hitung panjang diagonal ')
+write('4 keluar program ')
+write('masukkan pilihan anda(1/2/3/4)?')
+
+case(Nomer Menu):
+1:read(panjanf,lebar)
+  luas<---panjang*lebar
+  write(luas)
+2:read(panjang,lebar)
+  keliling<---2*panjang+2*lebar
+  write(luas)
+3:read(panjang,lebar)
+  diagonal<---√(panjang*panjang+lebar*lebar)
+4:write('keluar program')
