@@ -1,0 +1,6 @@
+write ('menu persegi panjang')
+write ('1 hitung luas')
+write ('2 hitung keliling')
+write ('3 hitung panjang diagonal')
+write ('4 keluar program')
+write ('Masukkan pilihan anda(1/2/3)?)
