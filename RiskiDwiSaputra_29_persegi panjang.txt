@@ -1,0 +1,28 @@
+﻿RiskiDwiSaputra_29_PERSEGI PANJANG
+
+Pseudecode
+Program Persegi Panjang
+{ menampilkan menu perssgi panjang }
+Kamus
+     Nomor Menu : integer
+     Panjang,lebar : real
+     luas,keliling,diagonal : real
+Algoritma 
+        Write (`Menu Persegi Panjang`)
+        Write (`1 Hitung Luas`)
+        Write (`2 Hitung keliling`)
+        Write (`3 Hitung panjang diagonal`)
+        Write (`4 Keluar program`)
+        Write (`masukkan pilihan anda (1/2/3/4)?)
+Case (Nama Menu)
+     1. read (panjang,lebar)
+        luas << panjang * lebar
+        write (luas)
+     2. read (panjang , lebar)
+        keliling < 2 " panjang + 2" lebar
+        write (keliling)
+     3. read (panjang , lebar)
+        diagonal < ( panjang "panjang + lebar" lebar)
+        write (diagonal)
+     4. write (`keluar program`)
+end case
