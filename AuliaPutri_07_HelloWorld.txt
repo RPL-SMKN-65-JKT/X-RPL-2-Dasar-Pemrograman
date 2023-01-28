@@ -1,0 +1,15 @@
+Program HelloWorld
+
+Kamus 
+  
+   integer (pencacah pengulangan)
+   N : integer (jumlah pengulanan)
+
+Algoritma 
+   read (N)
+   i<-1 (inisialisasi pencacah pengulangan dg 1)
+   While i ≤ N do
+   Write ("Hello World")
+   1<-1+1
+   end while 
+   (i>N-> loop invariant)
