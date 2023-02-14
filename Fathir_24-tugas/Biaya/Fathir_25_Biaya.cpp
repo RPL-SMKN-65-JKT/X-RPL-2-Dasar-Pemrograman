@@ -14,7 +14,7 @@ int main() {
    cout<<"|              BIAYA PEMBAYARAN SKS             |"<<endl;
    cout<<"|               created by: TirTir              |"<<endl;
    cout<<"|===============================================|"<<endl;
-   cout<<" Nama       : ";getline(cin, nma);
+   cout<<" Nama       : ";cin>>nma;
    cout<<" NIM        : ";cin>>Nim;
    cout<<" Prodi      : ";cin>>prod;
    cout<<"-----------------------------------------------"<<endl;
