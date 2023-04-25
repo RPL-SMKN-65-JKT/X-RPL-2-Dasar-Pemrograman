@@ -1,0 +1,41 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+  string nama;
+  float nim,biayaSks =150000, biayaSpp =3000000, BiayaPen =4000000;
+  int sks,sem;
+  char total;
+  
+  cout<<"--Program Menghitung Biaya Kuliah --"<<endl;
+  cout<<endl;
+  
+  cout<<"Keterangan = "<<endl<<"1. Biaya Rp. 150.000,00/SKS "<<endl<<"2. Biaya SPP Tetap Rp. 3.000.000,00"<<endl<<"3. Semester 1 - 5 dikenakan biaya pembangunan sebesar Rp. 4.000.000,00"<<endl;
+  cout<<"-----------------"<<endl;
+  cout<<endl;
+  cout<<" Inputkan nama anda  = ";
+  cin>>nama;
+  cout<<" Inputkan NIM anda  = ";
+  cin>>nim;
+  cout<<" Inputkan jumlah SKS = ";
+  cin>>sks;
+  cout<<" Inputkan Semester   = ";
+  cin>>sem;
+  cout<<endl;
+  cout<<"------------------------"<<endl;
+  
+  if(sem<=5){
+    cout<<" Anda Dikenakan biaya pembangunan sebesar "<<endl;  
+    total = (biayaSks*sks)+biayaSpp+BiayaPen; 
+    
+  }
+  else{
+    cout<<" Anda tidak dikenakan biaya pembangunan"<<endl;
+    total = (biayaSks*sks)+biayaSpp;
+    
+  }
+  cout<<endl;
+  cout<<"Total biaya  = Rp. 7.150.000 "<<total;
+  
+
+}
