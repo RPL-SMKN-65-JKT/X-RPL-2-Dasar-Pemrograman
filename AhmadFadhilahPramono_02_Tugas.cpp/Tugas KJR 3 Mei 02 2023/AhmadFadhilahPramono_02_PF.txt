@@ -1,0 +1,15 @@
+Perbedaan Procedure dan Function:
+
+Procedur:
+
+-Hanya memiliki satu fungsi tujuan (logical inherent).Sebuah prosedur sebaiknya hanya mempunyai satu fungsi tujuan / hanya memecahkan sebuah masalah dalam program dan tidak bercampur dengan tujuan lain. Hal tersebut agar prosedur lebih focus sehingga tujuan dari sebuah prosedur lebih mundah dipahami.
+-Tidak tergantung pada prosedur lain (independent). Sebuah prosedur sebaiknya bersifat mandiri, artinya sebuah prosedur dapat dijalankan dan diuji tanpa menunggu bagian lainnya (prosedur / fungsi lain) selesai. Selain itu variable yang digunakan dalam prosedur tidak mempengaruhi variabel yang digunakan pada bagian lain di keseluruhan program (misalnya dengan menggunakan variabel lokal).
+-Berukuran kecil (small size). Yang dimaksud ukuran disini adalah panjang kode program atau panjang algoritma pada sebuah prosedur. Ukuran kecil pada sebuah prosedur agar prosedur lebih mudah dibaca, dipahami maupun diperbaiki jika terdapat kesalahan pada sebuah prosedur.
+
+Function:
+
+
+-Pada fungsi, nilai yang dikirimkan balik terdapat pada nama fungsinya (kalau pada prosedur pada parameter yang dikirimkan secara acuan).
+-Karena nilai balik berada di nama fungsi tersebut, maka fungsi tersebut dapat langsung digunakan untuk dicetak hasilnya. Atau nilai fungsi tersebut dapat juga langsung dipindahkan ke pengenal variable yang lainnya.
+-Nama Prosedur tidak dapat digunakan lagsung tidak seperti pada Nama Fungsi, yang dapat langsung digunakan dari sebuah prosedur adalah parameternya yang mengandung nilai balik.
+
