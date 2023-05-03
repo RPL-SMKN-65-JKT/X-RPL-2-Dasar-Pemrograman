@@ -1,0 +1,9 @@
+ Perbedaan Procedure dan Function 
+----------------------------------
+1.Pada fungsi, tipe data nilai yang dikirimkan balik (return value) terdapat pada nama fungsinya, sedangkan prosedur tidak memiliki return value (misal return luas).
+
+2.Pada fungsi nama fungsi dapat digunakan untuk parameter yang mengandung nilai balik atau return, sedangkan pada procedure nama procedure tidak bisa digunakan untuk menentukan pada nilai balik atau return.
+
+3.Pada fungsi, nilai yang di return terdapat nama fungsinya sedangkan pada procedur tidak.
+
+4.Pada dasarnya tidak ada perbedaan yang signifikan antara fungsi dan prosedur, hanya dibedakan dari return value. Jika suatu sub program tersebut memiliki nilai balik (return value) maka sub program tersebut disebut Fungsi (Function) namun jika tidak mempunyai nilai balik maka sub program tersebut adalah prosedur (Procedure).
