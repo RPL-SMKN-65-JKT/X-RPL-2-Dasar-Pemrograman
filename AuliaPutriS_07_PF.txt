@@ -1,0 +1,5 @@
+- Pada function, tipe data nilai yang dikirimkan balik (return value) terdapat pada nama fungsinya, sedangkan procedure tidak memiliki return value (misal return luas).
+
+- Pada procedure, nama procedure tidak bisa digunakan langsung tidak seperti pada Nama fungsinya, yang bisa langsung digunakan dari sebuah procedure adalah parameternya yang mengandung nilai balik.
+
+- Karena nilai balik berada di nama fungsi tersebut, maka fungsi tersebut dapat langsung digunakan untuk dicetak hasilnya. Atau nilai fungsi tersebut dapat juga langsung dipindahkan ke pengenal variable yang lainnya (misal luas1 = ContohFungsi(panjang)).
